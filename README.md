@@ -53,7 +53,8 @@ Before beginning this course, ensure that you have the following:
 ## 📦 **Technologies and Tools**
 
 The course will utilize the following technologies:  
-![Technologies Used](https://via.placeholder.com/800x400.png?text=Python,+SQL,+Pandas,+NumPy,+TensorFlow,+AWS,+Docker,+Tableau)
+i![image](https://github.com/user-attachments/assets/3a9cec74-2b4f-4ed8-830e-0633d01f09a3)
+
 
 ---
 
